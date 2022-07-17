@@ -1,0 +1,18 @@
+
+1;45;50;hidden number is smaller
+2;45;25;hidden number is biger
+3;45;32;hidden number is biger
+4;45;38;hidden number is biger
+1;62;50;hidden number is biger
+2;62;75;hidden number is smaller
+3;62;62;true
+1;60;50;hidden number is biger
+2;60;75;hidden number is smaller
+3;60;62;hidden number is smaller
+4;60;56;hidden number is biger
+5;60;59;hidden number is biger
+6;60;61;hidden number is smaller
+7;60;60;true
+1;8;q;false
+1;18;trftctcv;it is not number
+2;18;q;false
